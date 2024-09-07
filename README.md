@@ -20,4 +20,4 @@ The data for this analysis is obtained from [Kaggle](https://www.kaggle.com/data
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/vinilvarghese/Digital-marketing-prediction.git](https://github.com/vinilvarghese/Digital-marketing-prediction.git)          
+   git clone https://github.com/vinilvarghese/Digital-marketing-prediction.git          
