@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on developing a robust predictive model to accurately forecast customer conversion in digital marketing campaigns, utilising a diverse dataset of 8000 customers. It anlayses various features, including demographic information, marketing specific variables such as ad spend and campaign type, and customer engagement metrics like websit visits and email interactions. By identifying the most influential factors driving customer conversion, the project aims to enhance the precision of predictive models. Futhermore, the project evaluates the effectiveness of different campaign channels, offering data driven recommendations to optimise ad spend and maximise return on investment(ROI)
+Using a diversified dataset of 8,000 consumers, the goal of this research is to construct a strong predictive model that can reliably forecast customer conversion in digital marketing campaigns. It analyses a number of parameters, including as demographic data, marketing-specific elements like campaign type and ad spend, and metrics related to customer involvement like website visits and email exchanges. The research attempts to improve the accuracy of predictive models by determining the most important elements influencing customer conversion. Additionally, the project assesses the efficacy of various advertising channels and provides data-driven suggestions to improve return on investment (ROI) and optimise ad expenditure.
 
 ### Source of Data
 
